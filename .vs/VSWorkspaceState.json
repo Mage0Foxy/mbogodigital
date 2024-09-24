@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\database",
+    "\\models",
     "\\views",
-    "\\views\\keuzedelen"
+    "\\views\\admin\\keuzedeel",
+    "\\views\\errors",
+    "\\views\\keuzedelen",
+    "\\views\\templates"
   ],
-  "SelectedNode": "\\views\\keuzedelen\\challenges-tab1.inc.php",
+  "SelectedNode": "\\models\\Keuzedeel.php",
   "PreviewInSolutionExplorer": false
 }
