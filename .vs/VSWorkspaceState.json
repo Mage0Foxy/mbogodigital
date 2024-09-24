@@ -4,7 +4,6 @@
     "\\database",
     "\\models",
     "\\views",
-    "\\views\\admin\\keuzedeel",
     "\\views\\errors",
     "\\views\\keuzedelen",
     "\\views\\templates"

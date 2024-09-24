@@ -64,7 +64,7 @@
                                 <?php echo $keuzedeel["goalsDescription"]; ?>
                             </td>
                             <td class="px-6 py-4">
-                                <?php echo $keuzedeel["precondition"]; ?>
+                                <?php echo $keuzedeel["preconditions"]; ?>
                             </td>
                             <td class="px-6 py-4">
                                 certificate <?php echo $keuzedeel["certificate"]; ?>
